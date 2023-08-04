@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed Mohamed Hassan</h1>
-<h3 align="center">i am software developer and Android developer.</h3>
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/homeapp-f3373.appspot.com/o/(Animated%20Pics)%20Meatty's%20FFS%20Comments%20and%20etags.gif?alt=media&token=716f6e14-6cfb-46d5-947f-621bf873b935" width = 200px />
+<h3 align="center">I am Software Engineer.</h3>
+
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/homeapp-f3373.appspot.com/o/(Animated%20Pics)%20Meatty's%20FFS%20Comments%20and%20etags.gif?alt=media&token=716f6e14-6cfb-46d5-947f-621bf873b935" width = 300px />
+<img align="lift" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
+
 
 <p align="left"> <a href="https://twitter.com/abdelrhman_amh" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrhman_amh?logo=twitter&style=for-the-badge" alt="abdelrhman_amh" /></a> </p>
 
-- 🔭 I’m currently working on [finde me](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
+- 🔭 I’m currently working on [finde me](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
 
 - 🤝 I have made [body world](https://play.google.com/store/apps/details?id=com.bodyworld1)
 
 - 🤝 I have made [calculate your age](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
