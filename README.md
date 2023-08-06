@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed Mohamed Hassan</h1>
 <h3 align="center">I am Software Engineer.</h3>
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/homeapp-f3373.appspot.com/o/(Animated%20Pics)%20Meatty's%20FFS%20Comments%20and%20etags.gif?alt=media&token=716f6e14-6cfb-46d5-947f-621bf873b935" width = 300px />
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/homeapp-f3373.appspot.com/o/(Animated%20Pics)%20Meatty's%20FFS%20Comments%20and%20etags.gif?alt=media&token=716f6e14-6cfb-46d5-947f-621bf873b935" width = 250px />
 <img align="lift" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
 
 
