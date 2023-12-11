@@ -2,7 +2,7 @@
 <h3 align="center">I am Software Engineer.</h3>
 
 
-<img align="Right" src="programar.gif" />
+<img align="Right" src="programar.gif" width ="100ps" />
 
 - 🔭 I’m currently working on [finde me](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
 
