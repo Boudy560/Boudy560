@@ -4,11 +4,11 @@
 
 <img align="Right" src="programar.gif" width ="100ps" />
 
-- 🔭 I’m currently working on [finde me](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
+I’m currently working on [finde me](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
 
-- 🤝 I have made [body world](https://play.google.com/store/apps/details?id=com.bodyworld1)
+I have made [body world](https://play.google.com/store/apps/details?id=com.bodyworld1)
 
-- 🤝 I have made [calculate your age](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
+I have made [calculate your age](https://play.google.com/store/apps/details?id=com.calcmyage1.calckmyage.ClacMyAge)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,5 +40,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boudy560&label=Profile%20views&color=0e75b6&style=flat" alt="boudy560" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boudy560" alt="boudy560" /></a> </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Boudy560}/count.svg"/></p> 
+<br>
+</div>
 
 
